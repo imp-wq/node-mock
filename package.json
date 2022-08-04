@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "node-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@types/mockjs": "^1.0.6",
+    "mockjs": "^1.1.0",
+    "node-fetch": "^3.2.10"
+  }
+}
